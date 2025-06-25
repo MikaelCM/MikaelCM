@@ -1,24 +1,60 @@
-## Bem-vindo(a) ao meu perfil! 😁
+<h1 align="left">Bem vindo(a) ao meu perfil👋</h1>
 
- <div>
-   <a href="https://github.com/MikaelCM">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelCM&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelCM&layout=compact&langs_count=6&theme=radical"/>
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">Desenvolvedor front-end em formação com foco em criação de interfaces web. Tenho<br>desenvolvido projetos pessoais para consolidar meu aprendizado em HTML, CSS e JavaScript.<br>Valorizo o trabalho em equipe, organização e evolução contínua, e estou motivado a contribuir<br>com projetos reais enquanto aprimoro minhas habilidades técnicas.</p>
+
+###
+
+<h2 align="left">Linguagens que utilizo</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-## Linguagens que utilizo
-    
-<div style="display: inline_block"> <br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikaelCM/MikaelCM/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikaelCM/MikaelCM/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MikaelCM/MikaelCM/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img height="150" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif"  />
 </div>
- 
-<br>
- 
-### Minhas redes sociais abaixo!
- 
-<div> 
-  <a href = "mailto:mikael.c.mendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mikael-carvalho-mendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MikaelCM&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="1" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikaelCM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikaelCM&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h2 align="left">Minhas redes sociais</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mikael-carvalho-mendes/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
