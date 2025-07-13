@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Meu Linkedin abaixo</h2>
+<h2 align="left">Meu Linkedin</h2>
 
 ###
 
