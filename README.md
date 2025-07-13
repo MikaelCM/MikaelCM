@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Minhas redes sociais</h2>
+<h2 align="left">Meu Linkedin abaixo</h2>
 
 ###
 
@@ -56,9 +56,3 @@
   <a href="https://www.linkedin.com/in/mikael-carvalho-mendes/" target="_blank" rel="external">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
-  <a href="mailto:mikael.c.mendes@gmail.com" target="_blank" rel="external">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-  </a>
-</div>
-
-###
