@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Desenvolvedor front-end em formação com foco em criação de interfaces web. Tenho<br>desenvolvido projetos pessoais para consolidar meu aprendizado em HTML, CSS e JavaScript.<br>Valorizo o trabalho em equipe, organização e evolução contínua, e estou motivado a contribuir<br>com projetos reais enquanto aprimoro minhas habilidades técnicas.</p>
+<p align="left">Desenvolvedor de software em formação com foco em criação de interfaces web. Tenho<br>desenvolvido projetos pessoais para consolidar meu aprendizado em HTML, CSS e JavaScript.<br>Valorizo o trabalho em equipe, organização e evolução contínua, e estou motivado a contribuir<br>com projetos reais enquanto aprimoro minhas habilidades técnicas.</p>
 
 ###
 
