@@ -1,4 +1,4 @@
-<h1 align="left">Bem vindo(a) ao meu perfil👋</h1>
+<h1 align="left">Bem vindo(a) ao meu perfil 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="Status: Ativo" />
