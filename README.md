@@ -26,6 +26,9 @@ Valorizo o trabalho em equipe, organização e aprendizado contínuo, e estou mo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
+  <img src="https://vite.dev/logo.svg" height="40" alt="vite logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="40" alt="git logo" />
 </div>
 
 <div align="center">
