@@ -2,11 +2,11 @@
   Bem-vindo(a) ao meu perfil 👋
 </h1>
 
-<h2 align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/STATUS-ATIVO-0d1117?style=flat-square&logo=github&logoColor=2ecc71&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/FOCUS-FRONT--END-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/LEARNING-NODE%20%26%20SQL-0d1117?style=flat-square&logo=nodedotjs&logoColor=3c873a&labelColor=0d1117"/>
-</h2>
+</div>
 
 <h2 align="left">Sobre mim</h2>
 <p align="left">Sou um desenvolvedor de software em formação, com foco em criação de interfaces web.  
