@@ -49,7 +49,7 @@ Busco oportunidades como desenvolvedor de software júnior ou estagiário, onde 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikaelCM&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<h2>Minhas redes sociais</h2>
+<h2>Contato</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/mikael-carvalho-mendes/" target="_blank">
