@@ -1,0 +1,8 @@
+
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="120" height="120" rx="8" fill="#EA4335"/>
+  <!-- Envelope -->
+  <rect x="20" y="40" width="80" height="50" fill="none" stroke="white" stroke-width="2"/>
+  <!-- Aba triangular do envelope -->
+  <polygon points="22,40 60,65 98,40" fill="none" stroke="white" stroke-width="2"/>
+</svg>
