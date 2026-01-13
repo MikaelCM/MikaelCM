@@ -12,6 +12,9 @@ Tenho desenvolvido projetos pessoais para consolidar meus conhecimentos em <stro
 Valorizo o trabalho em equipe, organização e aprendizado contínuo, e estou motivado a contribuir com projetos reais enquanto aprimoro minhas habilidades técnicas.
 </p></p>
 
+## Objetivo
+Busco oportunidades como desenvolvedor de software júnior ou estagiário, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com projetos reais.
+
 <h2 align="left">Linguagens e Tecnologias</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
