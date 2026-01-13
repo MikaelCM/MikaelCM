@@ -19,7 +19,7 @@ Valorizo trabalho em equipe, organização e aprendizado contínuo, e estou moti
 Busco oportunidades como desenvolvedor de software júnior ou estagiário, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com projetos reais.
 
 <h2 align="left">Linguagens e Tecnologias</h2>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -41,11 +41,11 @@ Busco oportunidades como desenvolvedor de software júnior ou estagiário, onde 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="40" alt="git logo" />
 </div>
 
-<div align="center">
-  <img height="150" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif"  />
+<div align="left">
+  <img height="150" width="856" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif"  />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikaelCM&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
