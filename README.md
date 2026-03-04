@@ -42,12 +42,17 @@ Busco oportunidades como desenvolvedor de software júnior ou estagiário, onde 
 </div>
 
 <div align="left">
-  <img height="150" width="856" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif"  />
+  <img width="320" src="https://github-readme-stats-theta-bay-40.vercel.app/api/top-langs/?username=MikaelCM&layout=compact&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41" alt="Linguagens mais utilizadas" />
 </div>
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikaelCM&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img height="150" width="856" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="Matrix banner" />
 </div>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikaelCM&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="Gráfico de atividade"  />
+</div>
+
 
 <h2>Contato</h2>
 
