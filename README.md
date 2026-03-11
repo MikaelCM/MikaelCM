@@ -47,14 +47,23 @@ Busco oportunidades como desenvolvedor de software júnior ou estagiário, onde 
 
 ## Projetos
 
+### 🔹 La Dolce Dinha
+Site de confeitaria artesanal especializada em doces personalizados, bolos decorados e encomendas sob medida. Feita para uma cliente (freelance).
+
+Tecnologias:
+React • JavaScript • CSS
+
+🔗 Demo: https://ladolcedinha.com.br/ <br />
+🔗 Repositório: https://github.com/MikaelCM/menu
+
 ### 🔹 Weather Forecast  
 Aplicação que consome API de clima para exibir previsões em tempo real.
 
 Tecnologias:
 HTML • JavaScript • API REST • CSS
 
-🔗 Demo: https://...
-🔗 Repositório: https://...
+🔗 Demo: https://mikaelcm.github.io/Weather-Forecast/ <br />
+🔗 Repositório: https://github.com/MikaelCM/Weather-Forecast
 
 <div align="left">
   <img height="150" width="856" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="Matrix banner" />
@@ -64,7 +73,9 @@ HTML • JavaScript • API REST • CSS
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikaelCM&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="Gráfico de atividade"  />
 </div>
 
-<h2>Contato</h2>
+## Contato
+
+
 
 <table align="center">
   <tr>
@@ -85,3 +96,7 @@ HTML • JavaScript • API REST • CSS
     </td>
   </tr>
 </table>
+
+<div align="center">
+   <h3>Vamos conversar!</h3>
+</div>
