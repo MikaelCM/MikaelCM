@@ -65,7 +65,7 @@ Busco oportunidades como desenvolvedor de software júnior ou estagiário, onde 
     <img src="./icons/gmail.svg" width="80" height="80" alt="Gmail">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mikaelcm.github.io/Portfolio/" target="_blank">
-    <img src="./icons/portfolio.svg" width="80" height="80" alt="Portfolio">
+  <a href="https://mikaelcm.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
+    <img src="./icons/portfolio.svg" width="80" height="80" alt="Portfolio" >
   </a>
 </div>
