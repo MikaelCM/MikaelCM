@@ -2,7 +2,6 @@
   Bem-vindo(a) ao meu perfil 👋
 </h1>
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-ATIVO-0d1117?style=flat-square&logo=github&logoColor=2ecc71&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/FOCUS-FRONT--END-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=0d1117"/>
@@ -22,7 +21,6 @@ Busco oportunidades como desenvolvedor de software júnior ou estagiário, onde 
 <h2 align="left">Linguagens e Tecnologias</h2>
 <div align="left">
   <h3>Frontend</h3>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -87,14 +85,6 @@ HTML • JavaScript • API REST • CSS
 Português - Nativo <br />
 Inglês - Avançado
 
-<div align="left">
-  <img height="150" width="856" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="Matrix banner" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikaelCM&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="Gráfico de atividade"  />
-</div>
-
 
 ## Contato
 
@@ -117,6 +107,14 @@ Inglês - Avançado
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img height="150" width="856" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="Matrix banner" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikaelCM&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="Gráfico de atividade"  />
+</div>
 
 <div align="center">
    <h3>Vamos conversar!</h3>
