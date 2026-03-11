@@ -43,6 +43,7 @@ Busco oportunidades como desenvolvedor de software júnior ou estagiário, onde 
 
 <div align="left">
   <img width="320" src="https://github-readme-stats-theta-bay-40.vercel.app/api/top-langs/?username=MikaelCM&layout=compact&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41" alt="Linguagens mais utilizadas" />
+  <img width="406" src="https://github-readme-stats.vercel.app/api?username=MikaelCM&layout=compact&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41" />
 </div>
 
 
