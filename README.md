@@ -56,16 +56,22 @@ Busco oportunidades como desenvolvedor de software júnior ou estagiário, onde 
 
 <h2>Contato</h2>
 
-<div>
-  <a href="https://www.linkedin.com/in/mikael-carvalho-mendes/" target="_blank">
-    <img src="./icons/linkedin.svg" width="100" height="90" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mikael.c.mendes@gmail.com" target="_blank">
-    <img src="./icons/gmail.svg" width="80" height="80" alt="Gmail">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mikaelcm.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="./icons/portfolio.svg" width="80" height="80" alt="Portfolio" >
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mikael-carvalho-mendes/" alt="Linkedin">
+      <img src="./icons/linkedin.svg" width="60"><br>
+      LinkedIn
+    </td>
+    <td align="center">
+      <a href="mailto:mikael.c.mendes@gmail.com" alt="Gmail">
+      <img src="./icons/gmail.svg" width="60"><br>
+      Email
+    </td>
+    <td align="center">
+      <a href="https://mikaelcm.github.io/Portfolio/" alt="Portfólio">
+      <img src="./icons/portfolio.svg" width="60"><br>
+      Portfólio
+    </td>
+  </tr>
+</table>
