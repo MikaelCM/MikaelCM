@@ -2,6 +2,7 @@
   Bem-vindo(a) ao meu perfil 👋
 </h1>
 
+
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-ATIVO-0d1117?style=flat-square&logo=github&logoColor=2ecc71&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/FOCUS-FRONT--END-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=0d1117"/>
@@ -43,6 +44,14 @@ Busco oportunidades como desenvolvedor de software júnior ou estagiário, onde 
   <img src="https://vite.dev/logo.svg" height="35" alt="vite logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
 <img width="12" />
