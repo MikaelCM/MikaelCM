@@ -9,7 +9,7 @@
 </div>
 
 <h2 align="left">Sobre mim</h2>
-<p align="left">Sou um desenvolvedor de software em formação, com foco em criação de interfaces web.  
+<p align="left">Sou um desenvolvedor de software em formação, com foco em criação de interfaces web modernas e responsivas.  
 Tenho desenvolvido projetos pessoais para consolidar meus conhecimentos em React, CSS e TypeScript, e atualmente estou aprendendo Node e SQL.
 
 Valorizo trabalho em equipe, organização e aprendizado contínuo, e estou motivado a contribuir com projetos reais enquanto aprimoro minhas habilidades técnicas.
